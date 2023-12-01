@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine;
+  }
+  .container {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+  }
+  
+  button {
+    font-weight: bold;
+  }
+  
