@@ -17,6 +17,12 @@ html {
   display: grid;
   grid-template-columns: 2fr 1fr;
   overflow: hidden;
+  box-shadow: 5px 5px 10px;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  transition: transform 0.3s ease
 }
 
 h1,
