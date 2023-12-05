@@ -1,0 +1,39 @@
+body {
+    font-family: "Arial", sans-serif;
+    background: linear-gradient();
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .container {
+    background: lightblue;
+    border-radius: 30px;
+    width: 90%;
+    max-width: 600px;
+    box-shadow: 5px 5px 5px lightblue;
+    padding: 5px;
+  }
+  
+  button{
+    padding: 5px;
+    margin: 10px;
+    background-color: lightyellow;
+    color: black;
+    border: dashed 1px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  button:hover{
+    background-color: lightgreen;
+  }
+  
+  #result{
+    margin-top: 4px;
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+  }
+  
